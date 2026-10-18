@@ -1,4 +1,4 @@
-# Hi there, I'm Eman 👋
+# Hi , I'm Eman 👋
 
 I am a 2nd-year **Computer Science** student specializing in **Artificial Intelligence**. I have a strong foundation in core computer science concepts, object-oriented programming, and algorithmic problem-solving, and I am actively expanding my practical skillset in AI and data science.
 

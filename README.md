@@ -1,34 +1,55 @@
-# Hi , I'm Eman 👋
+# Hi, I'm Eman Moataz 👋
 
-I am a 2nd-year **Computer Science** student specializing in **Artificial Intelligence**. I have a strong foundation in core computer science concepts, object-oriented programming, and algorithmic problem-solving, and I am actively expanding my practical skillset in AI and data science.
+## 👩‍💻 Who am I?
 
----
+I'm a Computer Science student interested in programming, problem-solving, and building projects to improve my skills.
 
-### 💻 Technical Stack
-
-* **Programming Languages:** C++, Python
-* **Core Concepts:** Data Structures, Object-Oriented Programming (OOP), Problem Solving
-* **AI & Data Science:** NumPy (currently mastering machine learning & AI fundamentals)
-* **Environment & Tools:** Linux (CLI), VS Code, Visual Studio, Git & GitHub
-
----
-
-### 🎯 Current Focus
-
-* 🧠 Deepening my understanding of Machine Learning and AI algorithms.
-* 🧩 Solving algorithmic challenges to refine problem-solving skills in C++ and Python.
-* 🛠️ Building object-oriented software projects with clean structure and robust architecture.
+- 💻 Learning C++ and Python
+- 🧩 Practicing Data Structures in C++ and Python
+- 🏗️ Learning Object-Oriented Programming (OOP) in C++
+- 📊 Working with NumPy
+- ☁️ Learning Cloud Computing
+- 🔐 Basic knowledge of Cybersecurity
+- 🤖 Planning to learn Machine Learning and AI algorithms
 
 ---
 
-### 📊 GitHub Activity
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanMoataz&show_icons=true&theme=radical&count_private=true" alt="Eman's GitHub Stats" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
 
+- C++
+- Python
+- Object-Oriented Programming (OOP)
+- Data Structures
+- NumPy
+- Cloud Computing
+- Cybersecurity Fundamentals
+- Git & GitHub
+
 ---
 
-### 📫 Connect with Me
+## 🚀 My Projects
 
-* **GitHub:** [@EmanMoataz](https://github.com/EmanMoataz)
+Check out my projects and repositories:
+
+🔗 [View All Repositories](https://github.com/EmanMoataz?tab=repositories)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/EmanMoataz">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
